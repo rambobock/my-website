@@ -2,5 +2,4 @@
 
 Welcome to my website
 
-## sub heading
-Edit on example branch
+update made on github
